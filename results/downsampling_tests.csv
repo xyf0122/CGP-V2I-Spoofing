@@ -1,0 +1,3 @@
+comparison,metric,statistic,pvalue,method
+10 Hz versus 5 Hz,MAE,177.0,0.10643770126625896,two-sided exact Wilcoxon signed-rank
+10 Hz versus 5 Hz,MSE,175.0,0.09838791796937585,two-sided exact Wilcoxon signed-rank

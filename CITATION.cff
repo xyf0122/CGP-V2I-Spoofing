@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this research software and dataset when using the CGP analyses."
+type: software
+title: "Modeling Driver Responses to V2I Spoofing: A Cognition-Gated Framework With Physical Constraints"
+authors:
+  - family-names: Xu
+    given-names: Yifan
+  - family-names: Li
+    given-names: Zhixia
+  - family-names: Wei
+    given-names: Heng
+  - family-names: Zhang
+    given-names: Guohui
+  - family-names: Liu
+    given-names: Chenxi
+  - family-names: Li
+    given-names: Xiaopeng
+abstract: "Reproducible trajectory reconstruction and supporting analyses for cognition-gated driver response under V2I red-light-countdown spoofing."
+keywords:
+  - cognition-gated projection
+  - V2I spoofing
+  - driver behavior
+  - trajectory reconstruction
+license: MIT
+repository-code: "https://github.com/xyf0122/CGP-V2I-Spoofing"
+version: "1.0.0"
+date-released: "2026-09-30"

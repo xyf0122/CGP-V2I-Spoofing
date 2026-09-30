@@ -1,0 +1,54 @@
+[
+  {
+    "file": "rlcd5.csv",
+    "sha256": "e2bfe2602b0e8c500f2f8d18a5bfb50a24b04a148e369c9b994fb9aae67163ef"
+  },
+  {
+    "file": "CyberSurvey.xlsx",
+    "sha256": "dff11450e33fe97f23d89b2048bdc378106604c9560bfc895ddedef913a82d96"
+  },
+  {
+    "file": "Location.txt",
+    "sha256": "e78dd98e8060f0d1c7aef2d80a45669076d0da980898ea0e3f6e6aa5ff7e42d0"
+  },
+  {
+    "file": "Untitled-1.ipynb",
+    "sha256": "504ca1417674c32d84ffeb2d829079ad9387225e524047928748b8e980a7484a"
+  },
+  {
+    "file": "results_attackonly_metrics.csv",
+    "sha256": "c8ce296ae94389fc9e9f9a037435e5748c0a49102365a215926bc749dff29104"
+  },
+  {
+    "file": "FigR_1.R",
+    "sha256": "69f5314bbefba87a7eddd62c437c06063c9eef377ca5dddc604b462c1c97922e"
+  },
+  {
+    "file": "FigR_4.R",
+    "sha256": "a59e465672142105d5dd77f9c9e2645b72063982b542ae7ca49fe486877c2d60"
+  },
+  {
+    "file": "FigR_6.R",
+    "sha256": "7dd270e7a0aa0e0a1cd8eec143a33693a5d7904ffbb7477127e3c5bd8a628ca3"
+  },
+  {
+    "file": "FigR_7.R",
+    "sha256": "48ad95b31bab62dede40917779573d55dce86480740ad79fe8891200307fd228"
+  },
+  {
+    "file": "FigR_8.R",
+    "sha256": "31d935999d9bbd118388faf71c18c487f08267fb7a9b6e9154ff8b30008ab7e5"
+  },
+  {
+    "file": "FigD_2.R",
+    "sha256": "7a26ce90544d5e090e3682c818a20689fd7b5811919976c774dd55599be7ea43"
+  },
+  {
+    "file": "FigD_3.R",
+    "sha256": "389d5f97992f6cd811c8d9851604d70bf7b0a1ab23c0430a2e1b6c6089d693b6"
+  },
+  {
+    "file": "FigD_4.R",
+    "sha256": "208099f17daad7db7b6317ed324520c587bc643b80fa8048724de296e9e338ce"
+  }
+]

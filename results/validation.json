@@ -1,0 +1,13 @@
+{
+  "participants": 32,
+  "trajectory_rows": 7151,
+  "primary_reference_max_absolute_error": 7.105427357601002e-15,
+  "discussion_correlation_reference_max_absolute_error": 0.009898558229498533,
+  "discussion_and_reconstruction_timing_differ_for_n_participants": 0,
+  "unverified_comparators": [
+    "Clipped IDM",
+    "Clipped Gipps"
+  ],
+  "archived_mantel_values": "Archived rounded values are retained as provenance; rerun discussion.R for corrected analysis.",
+  "survey_experience_records_exceeding_age": 0
+}

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
+*.xlsx
+*.xls
+*participant_id_mapping*
+Private_release_preparation/
+*.log

@@ -1,0 +1,5 @@
+constraint,violations,samples,violation_rate
+C1,0,3354,0.0
+C2,0,3354,0.0
+C3,36,3322,0.010836845273931367
+C4,0,3354,0.0
